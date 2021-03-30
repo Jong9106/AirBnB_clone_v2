@@ -131,7 +131,7 @@ class HBNBCommand(cmd.Cmd):
             key = token_arguments[0]
             value = token_arguments[1]
             if value[0] == '"' and value[-1] == '"':
-                value = value[1:-1].replace('"','\"')
+                value = value[1:-1].replace('"', '\"')
                 value = value.replace('_', ' ')
             elif value.isdigit():
                 value = int(value)
