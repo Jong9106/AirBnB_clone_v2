@@ -1,4 +1,4 @@
-![enter image description here](https://i.imgur.com/XZSIw52.png)
+![enter image description here](https://i.imgur.com/ptq0Os3.png)
 <center> <h1>HBNB - The Console</h1> </center>
 
 This repository contains the initial stage of a student project to build a clone of the AirBnB website. This stage implements a backend interface, or console, to manage program data. Console commands allow the user to create, update, and destroy objects, as well as manage file storage. Using a system of JSON serialization/deserialization, storage is persistent between sessions.
@@ -149,8 +149,7 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 -   All the files must have  _[pep8](https://github.com/treyhunner/pep8)_  style
 
 ## Author
- 
- - **Marianella Monroy** : Twitter - [@nelimonroyortiz](https://twitter.com/nelimonroyortiz)
+
  - **Juan Carlos Hernández** : Twitter - [@luigi_jong](https://twitter.com/luigi_jong)
  
 ##  info
